@@ -1,2 +1,2 @@
 # masoscience
-Masoscience is a project in which, with the help of data analysis and deep learning and advanced concepts related to it and even concepts related to the stock market, a model has been implemented to predict the increase or decrease in price, but it has a lot of work to do.
+In this project, we tried to implement a complete and advanced forecasting model for the stock market and help trading, but the demo version is placed in this repository, and it does not have a part of other models that have been implemented, and there is little data for The model training is uploaded but the data preparation is completely left out
